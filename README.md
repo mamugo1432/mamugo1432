@@ -1,8 +1,8 @@
 
 
 
-<h2 align="center">HOLA! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h2>
+<h1 align="center">HOLA! 
+</h1>
 
 <!--
 **mamugo1432/mamugo1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
