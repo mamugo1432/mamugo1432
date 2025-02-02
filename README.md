@@ -15,6 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+ ```python
+  class WhoAmI:
+    user = 'Jaydeep Yadav'
+	current_edu = "CSIT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Chhattisgarh_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
+
+
 - **Lenguajes y tecnologías que uso**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
