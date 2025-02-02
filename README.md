@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 	def getPueblo():
 		return Brenes
 	
-	def Ambiciones():
-		ConvertirmeEnDesarrolladorWeb()
-		CrearUnGranProyecto()
+	def ambiciones():
+		convertirmeEnDesarrolladorWeb()
+		crearUnGranProyecto()
 	
  ```
 
