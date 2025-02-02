@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 			]
 
 	def getPueblo():
-		return Brenes()
+		return Brenes
 	
 	def Ambiciones():
 		ConvertirmeEnDesarrolladorWeb()
