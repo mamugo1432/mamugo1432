@@ -17,24 +17,22 @@ Here are some ideas to get you started:
 
 
  ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+  class SobreMi:
+    nombre = 'Manuel Muñoz'
+	instituto = "IES Jacarandá"
 	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
+				'Quedar con amigos',
+                         'Leer',
+			 	'Ir al gimnasio',
+				'Películas de acción'
 			]
 	
-	def getCity():
-		return Chhattisgarh_India()
+	def getPueblo():
+		return Brenes()
 	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+	def Ambiciones():
+		ConvertirmeEnDesarrolladorWeb()
+		CrearUnGranProyecto()
 	
  ```
 
