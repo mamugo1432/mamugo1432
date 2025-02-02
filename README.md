@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+- **Repositorio recomendado**:
+
  <a href="https://github.com/mamugo1432/Cuestionario_Sostenibilidad">
   <img align="center" src="https://github.com/user-attachments/assets/100d9aca-57e3-4e13-9139-17e96b271f69" />
 
