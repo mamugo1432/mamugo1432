@@ -1,7 +1,7 @@
 <h1 align="center">
 Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+
 
 
 <!--
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 			 	'Ir al gimnasio',
 				'Películas de acción'
 			]
-	
+
 	def getPueblo():
 		return Brenes()
 	
@@ -59,11 +59,4 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-
-- **Repositorio recomendado**:
-
- <a href="https://github.com/mamugo1432/Cuestionario_Sostenibilidad">
-  <img align="center" src="https://github.com/user-attachments/assets/100d9aca-57e3-4e13-9139-17e96b271f69" />
-
-</a>
 
