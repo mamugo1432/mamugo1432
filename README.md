@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
  ```python
   class SobreMi:
-    nombre = 'Manuel Muñoz'
+    nombre = "Manuel Muñoz"
 	instituto = "IES Jacarandá"
 	hobbies = [
-				'Quedar con amigos',
-                         'Leer',
-			 	'Ir al gimnasio',
-				'Películas de acción'
+				"Quedar con amigos",
+                         "Leer",
+			 	"Ir al gimnasio",
+				"Películas de acción"
 			]
 
 	def getPueblo():
