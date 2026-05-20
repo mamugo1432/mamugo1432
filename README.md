@@ -45,7 +45,7 @@ public class SobreMi {
 	
  ```
 
-
+<!--
 - **Lenguajes y tecnologías que uso**:
 
   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 256 256" fill="none" version="1.1">
@@ -80,6 +80,6 @@ public class SobreMi {
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                                           
 </p>
-
+-->
 <br>
 
