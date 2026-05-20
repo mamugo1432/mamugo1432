@@ -22,11 +22,25 @@ Here are some ideas to get you started:
 
  ```java
 
-public class SobreMi(){
-	public static void hola(){
-		System.out.println("hola");
-}
-}
+public class SobreMi {
+
+    private String nombre = "Manuel Muñoz";
+    private String instituto = "IES Jacarandá";
+    private String[] hobbies = {
+        "Quedar con amigos",
+        "Leer",
+        "Ir al gimnasio",
+        "Películas de acción"
+    };
+
+    public String getPueblo() {
+        return "Brenes";
+    }
+
+    public void ambiciones() {
+        System.out.println("Convertirme en desarrollador web");
+        System.out.println("Crear un gran proyecto");
+    }
   
 	
  ```
