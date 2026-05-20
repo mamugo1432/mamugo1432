@@ -20,23 +20,14 @@ Here are some ideas to get you started:
 -->
 
 
- ```python
-  class SobreMi:
-    nombre = "Manuel Muñoz"
-	instituto = "IES Jacarandá"
-	hobbies = [
-				"Quedar con amigos",
-                         "Leer",
-			 	"Ir al gimnasio",
-				"Películas de acción"
-			]
+ ```java
 
-	def getPueblo():
-		return Brenes
-	
-	def ambiciones():
-		convertirmeEnDesarrolladorWeb()
-		crearUnGranProyecto()
+public class SobreMi(){
+	public static void hola(){
+		System.out.println("hola");
+}
+}
+  
 	
  ```
 
